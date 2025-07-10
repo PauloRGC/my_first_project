@@ -1,6 +1,7 @@
 # Calculadora
 
 ##Execução
+### Inserir seguintes comandos no shell:
 - chmod +x calculadora.sh
 - chmod 744 calculadora.sh
 - ./calculadora.sh
